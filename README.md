@@ -1,4 +1,4 @@
-# 🚀 CRED Garage Inspired Dashboard – Frontend Developer Task
+#  CRED Garage Inspired Dashboard – Frontend Developer Task
 
 This is a responsive, animated dashboard inspired by **CRED Garage**, built as part of the frontend developer task for **CyberSapient Technologies**.
 
@@ -6,13 +6,13 @@ Designed with a focus on clean UI, modern animations, and excellent user experie
 
 ---
 
-## 📸 Preview
+##  Preview
 
 > _(Add screenshots here if available)_
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Framework:** [Next.js (App Router)](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
@@ -24,7 +24,7 @@ Designed with a focus on clean UI, modern animations, and excellent user experie
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
